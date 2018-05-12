@@ -1,10 +1,16 @@
 _repo: Yougo-Slavia_48037
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48037-h/images/cover-th.jpg
 creator:
   author:
     agent_name: Smits, G.
     gutenberg_agent_id: '44591'
     url: http://www.gutenberg.org/2009/agents/44591
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48037#Yougo-Slavia
 gutenberg_issued: '2015-01-20'
 gutenberg_type: Text
 identifiers:
